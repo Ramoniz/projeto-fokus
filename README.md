@@ -16,6 +16,7 @@ O **Focus** oferece três modos principais para te ajudar a manter a produtivida
 
 🔴 **Descanso Longo (15 min)** – Para relaxar após alguns ciclos de foco.
 
+
 Além disso, agora você conta com uma Lista de **Tarefas Integrada** 📝:
 
 ➕ Adicione novas tarefas facilmente.
@@ -28,7 +29,7 @@ Além disso, agora você conta com uma Lista de **Tarefas Integrada** 📝:
 
 🔒 Tarefas concluídas não podem mais ser editadas ou selecionadas.
 
-🗑️ Exclua t**odas as tarefas** de uma vez ou apenas as **tarefas concluídas**.
+🗑️ Exclua **todas as tarefas** de uma vez ou apenas as **tarefas concluídas**.
 
 Essa funcionalidade foi implementada utilizando **manipulação do DOM** e **armazenamento no LocalStorage**, garantindo que suas tarefas sejam salvas mesmo ao recarregar a página.
 
